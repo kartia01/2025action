@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
 
 function App() {
   return (
-    <div>안녕하세요!!</div>
-  )
+    <div>
+      <h3>title</h3>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, fuga!
+    </div>
+  );
 }
 
-export default App
+export default App;
